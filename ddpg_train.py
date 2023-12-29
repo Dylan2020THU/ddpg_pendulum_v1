@@ -1,3 +1,8 @@
+# DDPG for Pendulum-v1 control problem: training loop 
+# Born time: 2023-12-26
+# Latest update: 2023-12-26
+# Dylan
+
 import gym
 import numpy as np
 import torch
