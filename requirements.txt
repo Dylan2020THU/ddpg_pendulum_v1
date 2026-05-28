@@ -1,0 +1,11 @@
+# DDPG Pendulum-v1 dependencies
+# Recommended Python: 3.9 (see README.md)
+
+numpy==1.20.3
+gym==0.26.2
+matplotlib>=3.5.0
+pygame>=2.1.0
+
+# PyTorch (CPU). For CUDA 12.1, install with:
+# pip install torch==2.1.2 --index-url https://download.pytorch.org/whl/cu121
+torch==2.1.2
